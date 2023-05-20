@@ -1,0 +1,254 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"searchTerm"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"csv",
+				"CSV: Justify columns"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"instal ",
+				"Package Control: Install Package"
+			],
+			[
+				"yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"toml",
+				"Set Syntax: TOML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jim/Documents/GitHub/chess-club-tools"
+	],
+	"file_history":
+	[
+		"/Users/jim/Documents/GitHub/Octopus-com/source/Octopus.Public.Web/appsettings.Local.json",
+		"/Users/jim/Downloads/octopus_deploy_2021_annual_security_assessment.pdf",
+		"/Users/jim/Documents/GitHub/Octofront/source/Octofront.Web.Public/wwwroot/documents/security-review-executive-report.pdf",
+		"/Users/jim/Documents/GitHub/site/layouts/shortcodes/rawhtml.html",
+		"/Users/jim/Documents/GitHub/site/layouts/rawhtml.html",
+		"/Users/jim/Documents/GitHub/site/content/posts/math-typesetting.pt-br.md",
+		"/Users/jim/Documents/GitHub/site/content/about.pt-br.md",
+		"/Users/jim/Library/Application Support/Sublime Merge/Packages/User/Preferences.sublime-settings",
+		"/Users/jim/Documents/GitHub/site/archetypes/default.md",
+		"/Users/jim/Documents/GitHub/site/go.sum",
+		"/Users/jim/Documents/GitHub/site/go.mod",
+		"/Users/jim/Documents/GitHub/site/config.toml",
+		"/Users/jim/Documents/GitHub/site/static/index.md",
+		"/Users/jim/Documents/GitHub/site/config.yaml",
+		"/Users/jim/Documents/GitHub/seska451.github.io/_writeups/test.md",
+		"/Users/jim/Documents/GitHub/seska451.github.io/_protected/Knife.md",
+		"/Users/jim/Documents/GitHub/seska451.github.io/about.md",
+		"/Users/jim/htb/intelligence/nmap",
+		"/Users/jim/Documents/GitHub/seska451.github.io/_posts/2021-07-11-welcome-to-jekyll.markdown",
+		"/Users/jim/Documents/GitHub/seska451.github.io/.gitignore",
+		"/Users/jim/Documents/GitHub/seska451.github.io/docs/Gemfile",
+		"/Users/jim/Documents/GitHub/seska451.github.io/docs/_config.yml",
+		"/Users/jim/Documents/GitHub/seska451.github.io/_layouts/protected.html",
+		"/Users/jim/Documents/GitHub/seska451.github.io/_plugins/protector.rb",
+		"/Users/jim/htb/intelligence/pdf/extract.sh",
+		"/Users/jim/htb/intelligence/pdf/output.txt",
+		"/Users/jim/Documents/GitHub/seska451.github.io/about.markdown",
+		"/Users/jim/Documents/GitHub/seska451.github.io/index.markdown",
+		"/Users/jim/Documents/GitHub/seska451.github.io/CNAME",
+		"/Users/jim/Documents/GitHub/seska451.github.io/_config.yml",
+		"/Users/jim/Documents/GitHub/seska451.github.io/Gemfile",
+		"/Users/jim/Documents/GitHub/seska451.github.io/README.md",
+		"/Users/jim/Desktop/thing.sh",
+		"/Users/jim/Documents/GitHub/seska451.github.io/_protected/drafts/Knife.md",
+		"/Users/jim/Documents/GitHub/seska451.github.io/writeups/HTB/test.md",
+		"/Users/jim/Documents/GitHub/seska451.github.io/writeups/# Test",
+		"/Users/jim/Documents/GitHub/seska451.github.io/writeups/HTB/Knife",
+		"/Users/jim/Documents/GitHub/seska451.github.io/index.md",
+		"/Users/jim/hashcat/hashes/thenotebook/jwt",
+		"/Users/jim/Documents/thing.py"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "chess-club-tools.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 448.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
